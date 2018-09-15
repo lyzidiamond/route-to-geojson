@@ -18,7 +18,7 @@ The tool takes 2 arguments:
 - polyline precision (default is 5)
 
 ```bash
-git clone git@github.com:mapbox/directions.git
+git clone git@github.com:lyzidiamond/directions.git
 cd directions/scripts/route-to-geojson
 npm install
 npm link
@@ -28,12 +28,7 @@ route-to-geojson path/to/route.json 6
 route-to-geojson path/to/route.json
 ```
 
-## Tests
-
-Coming soon!
-
 ## Todo
 
 - [ ] add option to give request URL
 - [ ] add points in GeoJSON for locations of voice and banner instructions
-- [ ] publish to npm?
