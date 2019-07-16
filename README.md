@@ -10,7 +10,7 @@ Output file contains the following features:
 
 ## Usage
 
-Save the route response you wish to convert into a JSON file. Geometry must be encoded as `polyline` or `polyline6` (API returns polyline by default).
+Save the route response you wish to convert into a JSON file. Geometry must be encoded as `polyline` or `polyline6` (API returns `polyline` by default).
 
 The tool takes 2 arguments:
 
